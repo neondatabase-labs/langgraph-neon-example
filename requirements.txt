@@ -1,0 +1,6 @@
+python-dotenv
+neon-api
+psycopg2-binary
+langchain
+langgraph
+langchain-google-genai
